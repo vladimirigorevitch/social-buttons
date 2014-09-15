@@ -1,0 +1,1 @@
+This plugin should add social button (like or/and share) to any place you want.
